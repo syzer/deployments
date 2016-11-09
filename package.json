@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/syzer/deployments#readme",
   "dependencies": {
-    "express": "^4.14.0"
+    "express": "^4.14.0",
+    "lodash": "^4.16.6"
   }
 }

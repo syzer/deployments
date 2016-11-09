@@ -22,7 +22,7 @@ Deploy with `now`
 npm i -g now
 now
 ```
-See for yourself [how it works](https://deploy-now-twnxttukhp.now.sh/)
+See for yourself [how it works](https://deploy-now-qbmqvylbgd.now.sh)
 
 ## honorable mentions:
 
