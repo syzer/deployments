@@ -1,5 +1,7 @@
 # Wat
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/syzer/deployments.svg)](https://greenkeeper.io/)
+
 Comparision for various deployments platforms.
 
 
